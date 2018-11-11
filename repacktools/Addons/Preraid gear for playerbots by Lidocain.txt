@@ -1,0 +1,547 @@
+************************warrior arms
+
+
+http://vanillagaming.org/forum/index.php?topic=20222.0
+
+
+
+.learn 71			//Defensive Stance
+.learn 7386			//Sunder Armor
+.learn 355			//Taunt		
+
+.learn 2458			//Berserker Stance	
+.learn 20252			//Intercept
+
+.additem 14046 4		//Runecloth Bag
+
+.additemset 511
+
+.additem 22150	  		//neck:	Beads of Ogre Might
+.additem 21187			//back:	Earthweave Cloak
+.additem 18500	 		//ring1:	Tarnished Elven Ring
+.additem 12548	 		//ring2:	Magni's Will
+.additem 13965			//trinket1:	Blackhand's Breadth
+.additem 11815			//trinket2:	Hand of Justice
+.additem 20669			//weapon sword 2h:	Darkstone Claymore
+.additem 12651			//ranged crosbow:	Blackcrow
+.additem 18042 200		//projectile arrow:
+
+
+************************warrior fury
+
+http://www.wow-one.com/forum/topic/50317-bis-pre-raid-fury-warrior-list/
+
+
+.learn 71			//Defensive Stance
+.learn 7386			//Sunder Armor
+.learn 355			//Taunt		
+
+.learn 2458			//Berserker Stance	
+.learn 20252			//Intercept
+
+.additem 14046 4		//Runecloth Bag
+
+.additem 12640			//head:	Lionheart Helm
+.additem 22150	  		//neck:	Beads of Ogre Might
+.additem 12927			//shoulder:	Truestrike Shoulders
+.additem 21187			//back:	Earthweave Cloak
+.additem 11726			//chest Savage Gladiator Chain
+.additem 12936			//wrist:Battleborn Armbraces
+.additem 13963			//hands:Voone's Vice Grips
+.additem 13142			//waist:Brigam Girdle
+.additem 22385			//legs:Titanic Leggings
+.additem 13967			//feet:Windreaver Greaves
+.additem 18500	 		//ring1:	Tarnished Elven Ring
+.additem 13098	 		//ring2:	Painweaver Band
+.additem 13965			//trinket1:	Blackhand's Breadth
+.additem 11815			//trinket2:	Hand of Justice
+.additem 12940			//weapon sword mh:	Dal'Rend's Sacred Charge
+.additem 12939			//weapon sword oh:	Dal'Rend's Tribal Guardian
+.additem 12651			//ranged crosbow:	Blackcrow
+.additem 18042 200		//projectile arrow:
+
+
+************************warrior protection
+
+http://www.wow-one.com/forum/topic/69163-bis-pre-raid-prot-warrior-tank-list/
+http://db.vanillagaming.org/?talent#LV0bZVZEizhezdVo
+
+.learn 71			//Defensive Stance
+.learn 7386			//Sunder Armor
+.learn 355			//Taunt		
+
+.learn 2458			//Berserker Stance	
+.learn 20252			//Intercept
+
+.additem 14046 4		//Runecloth Bag
+
+.additem 11746			//head:	Golem Skull Helm
+.additem 13091	  		//neck:		Medallion of Grand Marshal Morris
+.additem 18493			//shoulder:	Bulky Iron Spaulders
+.additem 18495			//back:	Redoubt Cloak
+.additem 14624			//chest: Deathbone Chestplate
+.additem 18754			//wrist:	Fel Hardened Bracers
+.additem 14622			//hands:	Deathbone Gauntlets
+.additem 14620			//waist:	Deathbone Girdle
+.additem 14623			//legs:	Deathbone Legguards
+.additem 14621			//feet:	Deathbone Sabatons
+.additem 11669	 		//ring1:	Naglering
+.additem 10795	 		//ring2:	Drakeclaw Band
+.additem 11810			//trinket1:	Force of Will
+.additem 18370			//trinket2:	Vigilance Charm
+.additem 18376			//weapon mace mh:	Timeworn Mace
+.additem 12602			//shield oh:	Draconian Deflector
+.additem 16996			//ranged bow:	Gorewood Bow
+.additem 18042 200		//projectile arrow:	Thorium Headed Arrow
+
+
+
+************************Priest holy
+
+http://vgprophecy.shivtr.com/forum_threads/2410082
+
+
+
+.learn 13896			//Feedback  HUMAN
+.learn 13908			//Desperate Prayer  HUMAN, DWARF
+.learn 6346			//Fear Ward DWARF
+.learn 2651			//Elune's Grace NIGHT ELF
+.learn 10797			//Starshards	NIGHT ELF
+.learn 2652			//Touch of Weakness	UNDEAD
+.learn 2944			//Devouring Plague UNDEAD
+.learn 9035			//Hex of Weakness TROLL
+.learn 18137			//Shadowguard TROLL
+.additem 14046 4		//Runecloth Bag
+
+.additem 17414			//Codex: Prayer of Fortitude II
+.additem 22393	  		//Codex: Prayer of Shadow Protection
+.additem 21287		//Codex of Prayer of Healing V
+.additem 21285			//Codex of Renew X
+.additem 21284		//Codex of Greater Heal V
+
+
+.additem 13102			//head:	Cassandra's Grace
+.additem 18723	  		//neck:		Animated Chain Necklace
+.additem 22234			//shoulder:	Mantle of Lost Hope
+.additem 18389			//back:	Cloak of the Cosmos
+.additem 13346			//chest: Robes of the Exalted
+.additem 18497			//wrist:	Sublime Wristguards
+.additem 12554			//hands:	Hands of the Exalted Herald
+.additem 18327			//waist:	Whipvine Cord
+.additem 18386			//legs:	Padre's Trousers
+.additem 22247			//feet:	Faith Healer's Boots
+.additem 13178	 		//ring1:	Rosewine Circle
+.additem 16058	 		//ring2:	Fordring's Seal
+.additem 18469			//trinket1:	Royal Seal of Eldre'Thalas
+.additem 11819			//trinket2:	Second Wind
+.additem 22406			//weapon staff 2h:	Redemption
+.additem 			//oh:	
+.additem 22254			//ranged wand:	Wand of Eternal Light
+.additem 13444 20		//Major Mana Potion
+
+
+
+************************Priest shadow
+
+http://db.vanillagaming.org/?talent#bxxosZZxGxtcxot
+http://armory.twinstar.cz/talent-calc.php?cid=5&d=vanilla&tal=05520013020000000000000000000000532502103501051
+
+
+
+.learn 13896			//Feedback  HUMAN
+.learn 13908			//Desperate Prayer  HUMAN, DWARF
+.learn 6346			//Fear Ward DWARF
+.learn 2651			//Elune's Grace NIGHT ELF
+.learn 10797			//Starshards	NIGHT ELF
+.learn 2652			//Touch of Weakness	UNDEAD
+.learn 2944			//Devouring Plague UNDEAD
+.learn 9035			//Hex of Weakness TROLL
+.learn 18137			//Shadowguard TROLL
+.additem 14046 4		//Runecloth Bag
+
+.additem 17414			//Codex: Prayer of Fortitude II
+.additem 22393	  		//Codex: Prayer of Shadow Protection
+.additem 21287		//Codex of Prayer of Healing V
+.additem 21285			//Codex of Renew X
+.additem 21284		//Codex of Greater Heal V
+
+
+.additem 22267			//head:	Spellweaver's Turban
+.additem 18691	  		//neck:		Dark Advisor's Pendant
+.additem 18681			//shoulder:	Burial Shawl
+.additem 18350			//back:	Amplifying Cloak
+.additem 14136			//chest: Robe of Winter Night
+.additem 21186			//wrist:	Rockfury Bracers
+.additem 18407			//hands:	Felcloth Gloves
+.additem 22078			//waist:	Virtuous Belt
+.additem 19165			//legs:	Flarecore Leggings
+.additem 18735			//feet:	Maleki's Footwraps
+.additem 22339	 		//ring1:	Rune Band of Wizardry
+.additem 13001	 		//ring2:	Maiden's Circle
+.additem 12930			//trinket1:	Briarwood Reed
+.additem 19288			//trinket2:	Darkmoon Card: Blue Dragon
+.additem 22335			//weapon staff 2h:	Lord Valthalak's Staff of Command
+.additem 			//oh:	
+.additem 13396			//ranged wand:	Skul's Ghastly Touch
+.additem 13444 20		//Major Mana Potion
+
+
+**************************Rogue
+
+http://db.vanillagaming.org/?talent#f0efoxZMIV0bVzxfo
+http://www.wow-one.com/forum/topic/66284-rogue-pve-guide-by-oto-friends/
+
+
+
+
+.learn 2842			//Poisons  
+
+.additem 14046 4		//Runecloth Bag
+
+
+.additem 19984			//head:	Ebon Mask
+.additem 15411	  		//neck:		Mark of Fordring
+.additem 12927			//shoulder:	Truestrike Shoulders
+.additem 13340			//back:	Cape of the Black Baron
+.additem 14637			//chest: Cadaverous Armor
+.additem 18375			//wrist:	Bracers of the Eclipse
+.additem 15063			//hands:	Devilsaur Gauntlets
+.additem 13252			//waist:	Cloudrunner Girdle
+.additem 15062			//legs:	Devilsaur Leggings
+.additem 12553			//feet:	Swiftwalker Boots
+.additem 18500	 		//ring1:	Tarnished Elven Ring
+.additem 13098 			//ring2:	Painweaver Band
+.additem 11815			//trinket1:	Hand of Justice
+.additem 13965			//trinket2:	Blackhand's Breadth
+.additem 12940			//weapon sword mh:	Dal'Rend's Sacred Charge
+.additem 12939			//weapon sword oh:	Dal'Rend's Tribal Guardian
+.additem 18323			//ranged bow:	Satyr's Bow
+.additem 18042 200		//projectile arrow:	Thorium Headed Arrow
+
+
+
+************************Paladin holy
+
+
+http://db.vanillagaming.org/?talent#sVxhrgotEMp00h
+
+
+.learn 7328			//Redemption
+.learn 23214			//Summon Charger
+
+
+
+.additem 17033 20		//Symbol of Divinity
+.additem 21177 100	  	//Symbol of Kings
+.additem 6866			//Symbol of Life
+
+.additem 14046 4		//Runecloth Bag
+
+
+.additem 12633			//head:	Whitesoul Helm
+.additem 13141  		//neck:		Tooth of Gnarr
+.additem 22234			//shoulder:	Mantle of Lost Hope
+.additem 18510			//back:	Hide of the Wild
+.additem 13388			//chest: The Postmaster's Tunic
+.additem 18459			//wrist:	Gallant's Wristguards
+.additem 18527			//hands:	Harmonious Gauntlets
+.additem 14553			//waist:	Sash of Mercy
+.additem 20260			//legs:	Seafury Leggings
+.additem 18507			//feet:	Boots of the Full Moon
+.additem 22681	 		//ring1:	Band of Piety
+.additem 18395	 		//ring2:	Emerald Flame Ring
+.additem 12930			//trinket1:	Briarwood Reed
+.additem 11819			//trinket2:	Second Wind
+.additem 11923			//weapon mace 1h:	The Hammer of Grace
+.additem 22319			//oh tome:	Tome of Divine Right
+.additem 23201			//ranged libram:	Libram of Divinity
+.additem 13444 20		//Major Mana Potion
+
+
+************************Paladin ret
+
+http://db.vanillagaming.org/?talent#sE0zZxhZEf0tbcq
+http://db.vanillagaming.org/?talent#sxZxGzZEfctbcq
+
+
+.learn 7328			//Redemption
+.learn 23214			//Summon Charger
+
+.additem 14046 4		//Runecloth Bag
+
+
+.additem 13359		//head:	Crown of Tyranny
+.additem 15411		//neck:	Mark of Fordring
+.additem 13405		//shoulder:	Wailing Nightbane Pauldrons
+.additem 13397		//back:	Stoneskin Gargoyle Cape
+.additem 12757		//chest:	Breastplate of Bloodthirst
+.additem 12936		//wrist:	Battleborn Bracers
+.additem 13162		//hands:	Reiver Claws
+.additem 13959		//waist:	Omokk's Girth Restrainer
+.additem 14554		//legs:	Cloudkeeper Legplaters
+.additem 13070		//feet:	Sapphiron's Scale Boots
+.additem 17713		//ring1:	Blackstone Ring
+.additem 12548		//ring2:	Magni's Will
+.additem 13965		//trinket1:	Blackhand's Breadth
+.additem 11815		//trinket2:	Hand of Justice
+.additem 19169		//weapon axe 2h:	Nightfall
+.additem 22401		//ranged libram:	Libram of Hope
+.additem 13444 20		//Major Mana Potion
+
+
+************************Druid resto
+
+
+
+.learn 1066			//Aquatic Form
+.learn 8946			//Cure Poison
+.learn 5487			//Bear Form
+.learn 6795			//Growl
+.learn 6807			//Maul
+
+
+.additem 14046 4		//Runecloth Bag
+
+.additem 17038 20		//Ironwood Seed
+
+
+
+.additem 13216			//head:	Crown of the Penitent
+.additem 13085	  		//neck:		Horizon Choker
+.additem 15067			//shoulder:	Ironfeather Shuolders
+.additem 15421			//back:	Shroud of the Exile
+.additem 15066			//chest: Ironfeather Breastplate
+.additem 11962			//wrist:	Manacle Cuffs
+.additem 12547			//hands:	Mar Alom's Grip	
+.additem 16696			//waist:	Devout Belt	
+.additem 15060			//legs:	Living Leggings	
+.additem 15802			//feet:	Mooncloth Boots
+.additem 13001 			//ring1:	Maiden's Circle
+.additem 13345	 		//ring2:	Seal of Rivendare
+.additem 12930			//trinket1:	Briarwood Reed
+.additem 11819			//trinket2:	Second Wind
+.additem 812			//weapon staff 2h:	Glowing Brightwood Staff
+.additem 			//oh:	
+.additem 22398			//ranged idol:	Idol of Rejuvenation
+.additem 13444 20		//Major Mana Potion
+
+
+
+************************Druid Feral (tank)
+
+
+http://db.vanillagaming.org/?talent#0zLV0oZExxscrdt
+http://db.vanillagaming.org/?talent#0ZEg0scMdtA0bo
+
+
+
+.learn 1066			//Aquatic Form
+.learn 8946			//Cure Poison
+.learn 5487			//Bear Form
+.learn 6795			//Growl
+.learn 6807			//Maul
+
+
+.additem 14046 4		//Runecloth Bag
+
+.additem 17038 20		//Ironwood Seed
+
+
+
+.additem 14539			//head:	Bone Ring Helm
+.additem 13177	  		//neck:		Talisman of Evasion
+.additem 19058			//shoulder:	Golden Mantle of the Dawn
+.additem 12551			//back:	Stoneshield Cloak
+.additem 15064			//chest: Warbear Harness
+.additem 18700			//wrist:	Malefic Bracers
+.additem 13258			//hands:	Slaghide Gauntlets OF THE MONKEY
+.additem 14502			//waist:	Frostbite Girdle
+.additem 16709			//legs:	Shadowcraft Pants
+.additem 18716			//feet:	Ash Covered Boots
+.additem 11669 			//ring1:	Naglering
+.additem 15855	 		//ring2:	Ring of Protection
+.additem 11811			//trinket1:	Smoking Heart of the Mountain
+.additem 13966			//trinket2:	Mark of Tyranny
+.additem 13047			//weapon mace 2h:	Twig of the World Tree
+.additem 			//oh:	
+.additem 23198			//ranged idol:	Idol of Brutality
+.additem 13444 20		//Major Mana Potion
+
+
+
+
+************************Druid Feral (kitty)
+
+http://db.vanillagaming.org/?talent#0zLV0oZxxxsfrztV
+http://db.vanillagaming.org/?talent#0zLV0oZExxscrdt
+
+
+
+.learn 1066			//Aquatic Form
+.learn 8946			//Cure Poison
+.learn 5487			//Bear Form
+.learn 6795			//Growl
+.learn 6807			//Maul
+
+
+.additem 14046 4		//Runecloth Bag
+
+.additem 17038 20		//Ironwood Seed
+
+
+
+.additem 12587			//head:	Eye of Rend
+.additem 15411	  		//neck:		Mark of Fordring
+.additem 12927			//shoulder:	Truestrike Shoulders
+.additem 13340			//back:	Cape of the Black Baron
+.additem 14637			//chest: Cadaverous Armor
+.additem 16710			//wrist:	Shadowcraft Bracers
+.additem 13957			//hands:	Gargoyle Slashers
+.additem 14502			//waist:	Frostbite Girdle
+.additem 16709			//legs:	Shadowcraft Pants
+.additem 15861			//feet:	Swiftfoot Treads
+.additem 18500	 		//ring1:	Tarnished Elven Ring
+.additem 13098	 		//ring2:	Painweaver Band
+.additem 13965			//trinket1:	Blackhand's Breadth
+.additem 11815			//trinket2:	Hand of Justice
+.additem 13167			//weapon mace 2h:	Fist of Omokk
+.additem 			//oh:	
+.additem 22397			//ranged idol:	Idol of Ferocity
+.additem 13444 20		//Major Mana Potion
+
+
+
+
+
+************************Mage Frost
+
+http://db.vanillagaming.org/?talent#of0yb0cZZVA0fMfzVo
+http://vanillagaming.org/forum/index.php?topic=13272.0
+
+
+.learn 10140			//Conjure Water
+
+
+.additem 14046 4		//Runecloth Bag
+
+
+
+
+.additem 22267			//head:	Spellweaver's Turban
+.additem 22403	  		//neck:		Diana's Pearl Necklace
+.additem 22412			//shoulder:	Thuzadin Mantle
+.additem 19121			//back:	Deep Woodlands Cloak
+.additem 14136			//chest: Robe of Winter Night	
+.additem 13107			//wrist:	Magiskull Cuffs
+.additem 13870			//hands:	Frostweave Gloves
+.additem 11662			//waist:	Ban'thok Sash
+.additem 9484			//legs:	Spellshock Leggings
+.additem 11822			//feet:	Omnicast Boots
+.additem 22339	 		//ring1:	Rune Band of Wizardry
+.additem 22433	 		//ring2:	Don Mauricio's Band of Domination
+.additem 12930			//trinket1:	Briarwood Reed
+.additem 13968			//trinket2:	Eye of the Beast
+.additem 17719			//weapon sword 1h:	Inventor's Focal Sword
+.additem 10796			//oh :	Drakestone of **** Frozen Wrath
+.additem 13938			//ranged wand:	Bonecreeper Stylus
+.additem 13444 20		//Major Mana Potion
+
+
+
+************************Warlock SM/ruin
+
+http://db.vanillagaming.org/?talent#IE0izMroVZZEx0x00z
+http://www.wow-one.com/forum/topic/78984-warlock-pre-raid-bis-emerald-dream/
+
+
+.learn 691			//Summon Felhunter
+.learn 697			//Summon Voidwalker
+.learn 712			//Summon Succubus
+.learn 688			//Summon Imp
+
+
+.additem 14046 4	//Runecloth Bag
+
+
+
+.additem 18727			//head:	Crimson Felt Hat
+.additem 22403	  		//neck:		Diana's Pearl Necklace
+.additem 18681			//shoulder:	Burial Shawl
+.additem 18350			//back:	 Amplifying Cloak
+.additem 19682			//chest: Bloodvine Vest
+.additem 18497			//wrist:	Sublime Wristguards
+.additem 18407			//hands:	Felcloth gloves
+.additem 11662			//waist:	Ban'thok Sash
+.additem 14107			//legs:	Felcloth Pants
+.additem 11822			//feet:	Omnicast Boots
+.additem 13001	 		//ring1:	Maiden's Circle
+.additem 22433	 		//ring2:	Don Mauricio's Band of Domination
+.additem 12930			//trinket1:	Briarwood Reed
+.additem 13968			//trinket2:	Eye of the Beast
+.additem 18372			//weapon sword 1h:	Blade of the New Moon
+.additem 22253			//oh :	Tome of the Lost 
+.additem 13396			//ranged wand:	Skul's Ghastly Touch
+.additem 13444 20		//Major Mana Potion
+
+
+**************************Hunter
+
+
+http://db.vanillagaming.org/?talent#cZqVohxoZI0VwRMhx
+http://vanillagaming.org/forum/index.php?topic=16557.0
+
+
+.additem 14046 4		//Runecloth Bag
+
+
+.additem 18421			//head:	Backwood Helm
+.additem 22340	  		//neck:		Pendant of Celerity
+.additem 13116			//shoulder:	Spaulders of the Unseen
+.additem 13340			//back:	Cape of the Black Baron
+.additem 11726			//chest: Savage Gladiator Chain
+.additem 18375			//wrist:	Bracers of the Eclipse
+.additem 15063			//hands:	Devilsaur Gauntlets
+.additem 19393			//waist:	Warpwood Binding
+.additem 15062			//legs:	Devilsaur Leggings
+.additem 13967			//feet:	Windreaver Greaves
+.additem 18500	 		//ring1:	Tarnished Elven Ring
+.additem 13098 			//ring2:	Painweaver Band
+.additem 13965			//trinket1:	Blackhand's Breadth
+.additem 18465			//trinket2:	Royal Seal of Eldre'Thalas
+
+.additem 18520			//weapon sword 2h:	Barbarous Blade
+
+.additem 12940			//weapon sword mh:	Dal'Rend's Sacred Charge
+.additem 12939			//weapon sword oh:	Dal'Rend's Tribal Guardian
+
+.additem 22347			//ranged crossbow:	Fahrad's Reloading Repeater
+.additem 18042 200		//projectile arrow:	Thorium Headed Arrow
+.additem 19319 			//quiver:Harpy Hide Quiver
+
+************************Shaman Resto
+
+https://forum.nostalrius.org/viewtopic.php?f=42&t=1676
+
+
+
+.additem 13216			//head:	Crown of the Penitent	
+.additem 13141	  		//neck:		Tooth of Gnarr	
+.additem 13013			//shoulder:	Elder Wizard's Mantle	
+.additem 13386			//back:	Archivist Cape	
+.additem 17741			//chest: Nature's Embrace	
+.additem 13969			//wrist:	Loomguard Armbraces
+.additem 10787			//hands:	Atal'ai Gloves of HEALING
+.additem 14553			//waist:	Sash of Mercy
+.additem 12756			//legs:	Leggings of Arcana	
+.additem 13954			//feet:	Verdant Footpads	
+.additem 13345	 		//ring1:	Seal of Rivendare	
+.additem 16058	 		//ring2:	Fordring's Seal
+.additem 10659			//trinket1:	Shard of Afrasa	
+.additem 12930			//trinket2:	Briarwood Reed
+.additem 11923			//weapon mace mh:	The Hammer of Grace	
+.additem 17718			//oh shield:Gizlock's Hypertech Buckler		
+.additem 22254			//ranged wand:	Wand of Eternal Light
+.additem 13444 20		//Major Mana Potion
+
+
+

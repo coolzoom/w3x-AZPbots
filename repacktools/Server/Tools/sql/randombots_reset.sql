@@ -1,0 +1,1 @@
+TRUNCATE TABLE ai_playerbot_random_bots

@@ -1,0 +1,7 @@
+A simple but useful bot manager addon for WoW.
+
+Install:
+1. Copy the Ikebotui folder into World of Warcraft\Interface\AddOns folder.
+2. On the character selection screen, click on the Addons button on the left side of the screen.
+3. Enable to load the incompatible addons.
+4. You find the icon under the minimap. 

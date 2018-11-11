@@ -1,0 +1,25 @@
+**************consumables for raid
+
+.additem 13452 20 Elixir of the Mongoose x20
+
+.additem 20007 15 Mageblood Potion x15
+
+.additem 18262 10 Elemental Sharpening Stone x10
+
+.additem 13458 15 Greater Nature Protection Potion x15
+
+.additem 13459 10 Greater Shadow Protection Potion x10
+
+.additem 2459 15 Swiftness Potion x15
+
+.additem 13511 5 Flask of Distilled Wisdom x5
+
+.additem 1350 5 Flask of the Titans x5
+
+.additem 13928 20 Grilled Squid x20
+
+.additem 8412 5 Ground Scorpok Assay
+
+.additem 21151 20 Rumsey Rum Black Label
+
+.additem 8529 20 Noggenfogger Elixir x200
